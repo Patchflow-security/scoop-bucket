@@ -6,14 +6,14 @@
             "bin": [
                 "patchflow.exe"
             ],
-            "hash": "3159dc22e7e3792961d7a7810ca5168837cab59ee2412a3e90b5c095ef6b18ae"
+            "hash": "c905afb3f7bc85c69ca323c37acf7f64bc49731daa7613fefb65e5cf552c4de2"
         },
         "arm64": {
             "url": "https://github.com/Patchflow-security/patchflow-cli/releases/download/v0.1.1/patchflow_0.1.1_windows_arm64.zip",
             "bin": [
                 "patchflow.exe"
             ],
-            "hash": "ecadd133e0122b8c247cc1d878a8516b1753dfc394f77a4547812728357907b3"
+            "hash": "4fdd20ef830e8ccc8f5ebff73b4f2cdd579e0f365a383b0557f065792b348fef"
         }
     },
     "homepage": "https://patchflow.dev",
