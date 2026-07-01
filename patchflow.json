@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Patchflow-security/patchflow-cli/releases/download/v0.1.0/patchflow_0.1.0_windows_x86_64.zip",
+            "bin": [
+                "patchflow.exe"
+            ],
+            "hash": "edfc568d580e8f49e92f3ade818d989ee5afae9b85f939721890ac27fcf82fc9"
+        },
+        "arm64": {
+            "url": "https://github.com/Patchflow-security/patchflow-cli/releases/download/v0.1.0/patchflow_0.1.0_windows_arm64.zip",
+            "bin": [
+                "patchflow.exe"
+            ],
+            "hash": "7aeeb96a752f552e3c7c17c40307777a2f33285b3673358613b0e31543cc4e80"
+        }
+    },
+    "homepage": "https://patchflow.dev",
+    "license": "Apache-2.0",
+    "description": "Local-first security scanner for code, dependencies, and secrets"
+}
