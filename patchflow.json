@@ -1,19 +1,19 @@
 {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Patchflow-security/patchflow-cli/releases/download/v0.1.6/patchflow_0.1.6_windows_x86_64.zip",
+            "url": "https://github.com/Patchflow-security/patchflow-cli/releases/download/v0.1.7/patchflow_0.1.7_windows_x86_64.zip",
             "bin": [
                 "patchflow.exe"
             ],
-            "hash": "8956801e94f78c709bccf95bc123d0f1e72895fd8b4b701793a01510b5689ffe"
+            "hash": "1eec8002d8610b264c95c40888068e181c170030abeaf48df754bb9eab4b8290"
         },
         "arm64": {
-            "url": "https://github.com/Patchflow-security/patchflow-cli/releases/download/v0.1.6/patchflow_0.1.6_windows_arm64.zip",
+            "url": "https://github.com/Patchflow-security/patchflow-cli/releases/download/v0.1.7/patchflow_0.1.7_windows_arm64.zip",
             "bin": [
                 "patchflow.exe"
             ],
-            "hash": "d0907697db1c1f799b2a8ba902b36403143e6601e4d4916d8b0ff923139ede31"
+            "hash": "835d590d8625b7682f24d50d23163e1ee3c7c7ec1008687f4b0dc19960e9a415"
         }
     },
     "homepage": "https://patchflow.dev",
